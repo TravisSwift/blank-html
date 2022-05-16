@@ -1,4 +1,4 @@
-# blank-html file with CSS, JS, inside an assets folder, a  Gitignore file, and Bootstrap links for starting projects
+# blank-html file with A CSS File and a .JS file inside an assets folder, a  Gitignore file, and Bootstrap links for starting projects
 
  ### When I need an HTML template  and it's CSS, JS, and Boostrap ready
  ### I CAN THEN use this template
