@@ -6,3 +6,6 @@ Blank HTML file with a CSS file, .js file, and Bootstrap links for starting proj
 
 ## When I need a template
 ## Then I can fork this and rename it for my new project
+
+
+# MODIFY THE README.md FILE FOR YOUR PROJECT and delete all this text
