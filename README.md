@@ -1,5 +1,5 @@
 # blank-html
-Blank HTML file with a CSS file, .js file, and Bootstrap links for starting projects
+Blank HTML file with a CSS file, .js file, .gitignore file, and Bootstrap links for starting projects
 
 ## When I need an HTML template  and it's CSS, JS, and Boostrap ready
 ## I CAN THEN use this template
