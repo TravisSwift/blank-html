@@ -1,4 +1,5 @@
-# blank-html
+# blank-html file with CSS, JS, Gitignore, Bootstrap To Start Projects
+
 Blank HTML file with a CSS file, .js file, .gitignore file, and Bootstrap links for starting projects
 
  When I need an HTML template  and it's CSS, JS, and Boostrap ready
@@ -8,4 +9,4 @@ When I need a template
 Then I can fork this and rename it for my new project
 
 
-# MODIFY THE README.md FILE FOR YOUR PROJECT and delete all this text
+## MODIFY THE README.md FILE FOR YOUR PROJECT and delete all this text
