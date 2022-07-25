@@ -1,10 +1,14 @@
-# blank-html file with a CSS File, .JS file, .gitignore file inside an assets folder, and Bootstrap links for starting projects
+# Blank-html file with a CSS File and a .JS file inside an assets folder. It also includes a .gitignore file and Bootstrap links for starting projects.
 
- ### When I need an HTML template  that is CSS, JS, and Boostrap ready
+
+ ### WHEN I NEED an HTML template that is CSS, JS, and Boostrap ready
  ### I CAN THEN use this template
 
-### When I need a template
-### Then I can fork or clone this repo and rename it for my new project
+### WHEN I NEED a template HTML file
+### THEN I CAN fork or clone this repo and rename it for my new project
 
 
-### MODIFY THE README.md FILE FOR YOUR PROJECT and delete all this text
+## MODIFY THE README.MD FILE FOR YOUR PROJECT and delete all this text
+
+
+# Happy Coding!
